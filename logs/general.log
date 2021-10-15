@@ -1,0 +1,60 @@
+2021-10-15 09:58:17,785 - root - WARNING - Config file for MemGraph database not found or path not provided.
+2021-10-15 09:58:17,785 - root - INFO - Setting db connection to localhost values.
+2021-10-15 09:58:17,785 - root - INFO - Connected to localhost MemGraph DB.
+2021-10-15 09:58:46,813 - root - WARNING - Config file for MemGraph database not found or path not provided.
+2021-10-15 09:58:46,813 - root - INFO - Setting db connection to localhost values.
+2021-10-15 09:58:46,814 - root - INFO - Connected to localhost MemGraph DB.
+2021-10-15 09:58:46,814 - root - INFO - Starting to parse: "https://index.hr" at 0 depth level.
+2021-10-15 09:58:46,814 - root - INFO - Current parsing level is: 0
+2021-10-15 09:58:47,705 - root - INFO - Status code: 200 for https://index.hr
+2021-10-15 09:58:47,883 - root - INFO - Starting to save nodes into MemGraph Database.
+2021-10-15 09:58:47,899 - root - INFO - Parsing time: 1.0695750713348389
+2021-10-15 09:58:47,899 - root - INFO - General execution time: 1.0854783058166504
+2021-10-15 10:36:35,912 - root - WARNING - Config file for MemGraph database not found or path not provided.
+2021-10-15 10:36:35,912 - root - INFO - Setting db connection to localhost values.
+2021-10-15 10:36:35,912 - root - INFO - Connected to localhost MemGraph DB.
+2021-10-15 10:36:35,912 - root - INFO - Starting to parse: "https://index.hr" at 1 depth level.
+2021-10-15 10:36:35,912 - root - INFO - Current parsing level is: 0
+2021-10-15 10:36:35,912 - root - INFO - Starting to parser https://index.hr
+2021-10-15 10:36:41,963 - root - INFO - Status code: 200 for https://index.hr
+2021-10-15 10:36:42,144 - root - INFO - New parsing level is: 1
+2021-10-15 10:36:43,022 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/
+2021-10-15 10:36:43,797 - root - INFO - Status code: 200 for https://recepti.index.hr
+2021-10-15 10:36:44,355 - root - INFO - Status code: 200 for https://www.index.hr/lajk/
+2021-10-15 10:36:44,873 - root - INFO - Status code: 200 for http://www.index.hr/indexforum/
+2021-10-15 10:36:45,341 - root - INFO - Status code: 200 for https://www.index.hr/tag/1074040/filmske-gromade.aspx
+2021-10-15 10:36:45,885 - root - INFO - Status code: 200 for https://www.index.hr/tag/266654/indexrecepti.aspx
+2021-10-15 10:36:46,436 - root - INFO - Status code: 200 for https://www.index.hr/tag/1055629/hrvati-se-sale.aspx
+2021-10-15 10:36:47,179 - root - INFO - Status code: 200 for https://recepti.index.hr?ref=index_naslovnica_d
+2021-10-15 10:36:47,840 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/356-domace-lisnato-tijesto?ref=index_naslovnica_d
+2021-10-15 10:36:48,427 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/234-puzici-s-cimetom-i-brusnicama?ref=index_naslovnica_d
+2021-10-15 10:36:49,038 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/891-hladna-salata-s-piletinom?ref=index_naslovnica_d
+2021-10-15 10:36:49,732 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/251-pilav-od-kelja-i-kvinoje?ref=index_naslovnica_d
+2021-10-15 10:36:50,367 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/608-varivo-od-graska-i-mrkve?ref=index_naslovnica_d
+2021-10-15 10:36:51,245 - root - INFO - Status code: 200 for http://www.index.hr/oglasi?ref=index_naslovnica_d
+2021-10-15 10:36:51,999 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/osobni-automobili/gid/27?ref=index_naslovnica_d
+2021-10-15 10:36:55,105 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/nekretnine/gid/2?ref=index_naslovnica_d
+2021-10-15 10:36:56,491 - root - INFO - Status code: 200 for http://index.hr/oglasi/kastela--kastel-luksic--samostojeca-prizemnica-/oid/2300006?ref=index_naslovnica_d
+2021-10-15 10:36:57,351 - root - INFO - Status code: 200 for http://index.hr/oglasi/vrtna-kucica-3x3m/oid/2184947?ref=index_naslovnica_d
+2021-10-15 10:36:59,129 - root - INFO - Status code: 200 for http://index.hr/oglasi/kuca-zadar-arbanasi/oid/2848915?ref=index_naslovnica_d
+2021-10-15 10:37:00,027 - root - INFO - Status code: 200 for http://index.hr/oglasi/kia-carnival-2-9-crdi/oid/252482?ref=index_naslovnica_d
+2021-10-15 10:37:00,940 - root - INFO - Status code: 200 for http://www.index.hr/lajk?ref=index_naslovnica_d
+2021-10-15 10:37:01,485 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237707/netko-je-fotkao-balkon-u-izgradnji-koji-je-totalni-gradjevinski-promasaj-ovo-morate-vidjeti?ref=index_naslovnica_d
+2021-10-15 10:37:02,010 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele?ref=index_naslovnica_d
+2021-10-15 10:37:02,529 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237705/ovo-je-najdublji-bazen-na-svijetu-oaza-za-ronioce-na-42-metra-dubine?ref=index_naslovnica_d
+2021-10-15 10:37:03,029 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237706/digitalni-umjetnik-stvara-jezive-verzije-likova-iz-crtica-zbog-ovoga-necete-moci-spavati?ref=index_naslovnica_d
+2021-10-15 10:37:03,641 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237693/tip-na-tiktoku-otkriva-bizarne-cinjenice-o-svijetu-koje-bi-vas-mogle-uznemiriti-i-pokvariti-vam-dan?ref=index_naslovnica_d
+2021-10-15 10:37:04,316 - root - INFO - Status code: 200 for http://www.index.hr/lajk/
+2021-10-15 10:37:04,902 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237707/netko-je-fotkao-balkon-u-izgradnji-koji-je-totalni-gradjevinski-promasaj-ovo-morate-vidjeti
+2021-10-15 10:37:05,456 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele
+2021-10-15 10:37:06,012 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237705/ovo-je-najdublji-bazen-na-svijetu-oaza-za-ronioce-na-42-metra-dubine
+2021-10-15 10:37:06,861 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237706/digitalni-umjetnik-stvara-jezive-verzije-likova-iz-crtica-zbog-ovoga-necete-moci-spavati
+2021-10-15 10:37:07,331 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/
+2021-10-15 10:37:08,085 - root - INFO - Status code: 200 for https://recepti.index.hr/
+2021-10-15 10:37:12,576 - root - INFO - Status code: 200 for https://www.facebook.com/index.hr/
+2021-10-15 10:37:14,102 - root - INFO - Status code: 200 for https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA
+2021-10-15 10:37:16,895 - root - INFO - Status code: 200 for https://instagram.com/index.hr
+2021-10-15 10:37:17,475 - root - INFO - Status code: 200 for https://cjenik.index.hr
+2021-10-15 10:37:17,612 - root - INFO - Starting to save nodes into MemGraph Database.
+2021-10-15 10:37:19,548 - root - INFO - Parsing time: 41.70012664794922
+2021-10-15 10:37:19,548 - root - INFO - General execution time: 43.63581562042236
