@@ -58,3 +58,217 @@
 2021-10-15 10:37:17,612 - root - INFO - Starting to save nodes into MemGraph Database.
 2021-10-15 10:37:19,548 - root - INFO - Parsing time: 41.70012664794922
 2021-10-15 10:37:19,548 - root - INFO - General execution time: 43.63581562042236
+2021-10-15 11:02:52,861 - root - INFO - Current parsing level is: 0
+2021-10-15 11:02:52,861 - root - INFO - Starting to parse https://google.com
+2021-10-15 11:03:02,875 - root - ERROR - Website "https://google.com" was not found.
+2021-10-15 11:03:02,876 - root - INFO - New parsing level is: 1
+2021-10-15 11:03:32,822 - root - INFO - Current parsing level is: 0
+2021-10-15 11:03:32,823 - root - INFO - Starting to parse https://google.com
+2021-10-15 11:03:39,280 - root - INFO - Status code: 200 for https://google.com
+2021-10-15 11:03:39,299 - root - INFO - New parsing level is: 1
+2021-10-15 11:03:39,986 - root - INFO - Status code: 200 for https://accounts.google.com/ServiceLogin?hl=hr&continue=https://www.google.com/&gae=cb-
+2021-10-15 11:03:40,900 - root - INFO - Status code: 200 for https://policies.google.com/technologies/cookies?hl=hr&utm_source=ucb
+2021-10-15 11:03:41,373 - root - INFO - Status code: 200 for https://consent.google.com/dl?continue=https://www.google.com/&gl=HR&hl=hr&pc=shp&src=1
+2021-10-15 11:03:42,265 - root - INFO - Status code: 200 for https://policies.google.com/privacy?hl=hr&utm_source=ucb
+2021-10-15 11:03:43,117 - root - INFO - Status code: 200 for https://policies.google.com/terms?hl=hr&utm_source=ucb
+2021-10-15 11:44:32,755 - root - WARNING - Config file for MemGraph database not found or path not provided.
+2021-10-15 11:44:32,755 - root - INFO - Setting db connection to localhost values.
+2021-10-15 11:44:32,755 - root - INFO - Connected to localhost MemGraph DB.
+2021-10-15 11:44:32,755 - root - INFO - Starting to parse: "https://--help" at 2 depth level.
+2021-10-15 11:44:32,755 - root - INFO - Current parsing level is: 0
+2021-10-15 11:44:32,755 - root - INFO - Starting to parse https://--help
+2021-10-15 11:44:32,758 - root - ERROR - Website "https://--help" was not found.
+2021-10-15 11:44:32,758 - root - INFO - New parsing level is: 1
+2021-10-15 11:44:32,758 - root - INFO - Starting to save nodes into MemGraph Database.
+2021-10-15 11:44:32,758 - root - INFO - Parsing time: 0.0035915374755859375
+2021-10-15 11:44:32,758 - root - INFO - General execution time: 0.0036361217498779297
+2021-10-15 12:24:08,058 - root - WARNING - Config file for MemGraph database not found or path not provided.
+2021-10-15 12:24:08,058 - root - INFO - Setting db connection to localhost values.
+2021-10-15 12:24:08,058 - root - INFO - Connected to localhost MemGraph DB.
+2021-10-15 12:24:08,058 - root - INFO - Starting to parse: "https://index.hr" at 1 depth level.
+2021-10-15 12:24:08,058 - root - INFO - Current parsing level is: 0
+2021-10-15 12:24:08,059 - root - INFO - Starting to parse https://index.hr
+2021-10-15 12:24:09,160 - root - INFO - Status code: 200 for https://index.hr
+2021-10-15 12:24:09,328 - root - INFO - New parsing level is: 1
+2021-10-15 12:24:10,116 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/
+2021-10-15 12:24:10,846 - root - INFO - Status code: 200 for https://recepti.index.hr
+2021-10-15 12:24:11,372 - root - INFO - Status code: 200 for https://www.index.hr/lajk/
+2021-10-15 12:24:11,831 - root - INFO - Status code: 200 for http://www.index.hr/indexforum/
+2021-10-15 12:24:12,503 - root - INFO - Status code: 200 for https://www.index.hr/tag/1074040/filmske-gromade.aspx
+2021-10-15 12:24:13,021 - root - INFO - Status code: 200 for https://www.index.hr/tag/266654/indexrecepti.aspx
+2021-10-15 12:24:13,504 - root - INFO - Status code: 200 for https://www.index.hr/tag/1055629/hrvati-se-sale.aspx
+2021-10-15 12:24:14,066 - root - INFO - Status code: 200 for https://recepti.index.hr?ref=index_naslovnica_d
+2021-10-15 12:24:14,736 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/436-punjeni-peceni-batat?ref=index_naslovnica_d
+2021-10-15 12:24:15,373 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/946-socna-rebarca-iz-pecnice?ref=index_naslovnica_d
+2021-10-15 12:24:15,956 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/760-cokoladni-ganache-s-toplim-visnjama?ref=index_naslovnica_d
+2021-10-15 12:24:16,506 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/347-zacinjena-pileca-krilca?ref=index_naslovnica_d
+2021-10-15 12:24:17,156 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/89-kolac-s-preljevom-od-limuna?ref=index_naslovnica_d
+2021-10-15 12:24:18,197 - root - INFO - Status code: 200 for http://www.index.hr/oglasi?ref=index_naslovnica_d
+2021-10-15 12:24:18,939 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/osobni-automobili/gid/27?ref=index_naslovnica_d
+2021-10-15 12:24:19,568 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/nekretnine/gid/2?ref=index_naslovnica_d
+2021-10-15 12:24:20,503 - root - INFO - Status code: 200 for http://index.hr/oglasi/peugeot-2008-1-6-hdi/oid/2599083?ref=index_naslovnica_d
+2021-10-15 12:24:21,287 - root - INFO - Status code: 200 for http://index.hr/oglasi/opel-rekord/oid/2402407?ref=index_naslovnica_d
+2021-10-15 12:24:22,088 - root - INFO - Status code: 200 for http://index.hr/oglasi/mazda-rx-8-mazda-rx8-98000-kilometara/oid/3130274?ref=index_naslovnica_d
+2021-10-15 12:24:22,909 - root - INFO - Status code: 200 for http://index.hr/oglasi/kustosija---kuca-sa-terasom-i-garazom--65-m2/oid/2132614?ref=index_naslovnica_d
+2021-10-15 12:24:23,652 - root - INFO - Status code: 200 for http://www.index.hr/lajk?ref=index_naslovnica_d
+2021-10-15 12:24:24,108 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237709/video-odlucio-je-prestrasiti-djecu-na-povratku-iz-skole-pogledajte-reakciju-na-ovu-jezivu-lutku?ref=index_naslovnica_d
+2021-10-15 12:24:24,642 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele?ref=index_naslovnica_d
+2021-10-15 12:24:25,227 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237708/20-fotki-koje-pokazuju-zasto-je-brazil-zemlja-kao-nijedna-druga?ref=index_naslovnica_d
+2021-10-15 12:24:25,782 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237707/netko-je-fotkao-balkon-u-izgradnji-koji-je-totalni-gradjevinski-promasaj-ovo-morate-vidjeti?ref=index_naslovnica_d
+2021-10-15 12:24:26,350 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237705/ovaj-bazen-u-italiji-prava-je-oaza-za-ronioce-dubok-je-cak-42-metra?ref=index_naslovnica_d
+2021-10-15 12:24:27,100 - root - INFO - Status code: 200 for http://www.index.hr/lajk/
+2021-10-15 12:24:27,776 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237709/video-odlucio-je-prestrasiti-djecu-na-povratku-iz-skole-pogledajte-reakciju-na-ovu-jezivu-lutku
+2021-10-15 12:24:28,557 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele
+2021-10-15 12:24:29,214 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237708/20-fotki-koje-pokazuju-zasto-je-brazil-zemlja-kao-nijedna-druga
+2021-10-15 12:24:29,793 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237707/netko-je-fotkao-balkon-u-izgradnji-koji-je-totalni-gradjevinski-promasaj-ovo-morate-vidjeti
+2021-10-15 12:24:30,233 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/
+2021-10-15 12:24:31,098 - root - INFO - Status code: 200 for https://recepti.index.hr/
+2021-10-15 12:24:32,805 - root - INFO - Status code: 200 for https://www.facebook.com/index.hr/
+2021-10-15 12:24:34,029 - root - INFO - Status code: 200 for https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA
+2021-10-15 12:24:35,962 - root - INFO - Status code: 200 for https://instagram.com/index.hr
+2021-10-15 12:24:36,749 - root - INFO - Status code: 200 for https://cjenik.index.hr
+2021-10-15 12:24:36,877 - root - INFO - Starting to save nodes into MemGraph Database.
+2021-10-15 12:24:38,006 - root - INFO - Parsing time: 28.81903052330017
+2021-10-15 12:24:38,006 - root - INFO - General execution time: 29.947999477386475
+2021-10-15 13:04:20,677 - root - WARNING - Config file for MemGraph database not found or path not provided.
+2021-10-15 13:04:20,677 - root - INFO - Setting db connection to localhost values.
+2021-10-15 13:04:20,677 - root - INFO - Connected to localhost MemGraph DB.
+2021-10-15 13:04:20,677 - root - INFO - Starting to parse: "https://index.hr" at 1 depth level.
+2021-10-15 13:04:20,677 - root - INFO - Current parsing level is: 0
+2021-10-15 13:04:20,677 - root - INFO - Starting to parse https://index.hr
+2021-10-15 13:04:22,767 - root - INFO - Status code: 200 for https://index.hr
+2021-10-15 13:04:22,926 - root - INFO - New parsing level is: 1
+2021-10-15 13:04:24,340 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/
+2021-10-15 13:04:25,392 - root - INFO - Status code: 200 for https://recepti.index.hr
+2021-10-15 13:04:25,980 - root - INFO - Status code: 200 for https://www.index.hr/lajk/
+2021-10-15 13:04:26,485 - root - INFO - Status code: 200 for http://www.index.hr/indexforum/
+2021-10-15 13:04:26,972 - root - INFO - Status code: 200 for https://www.index.hr/tag/1074040/filmske-gromade.aspx
+2021-10-15 13:04:27,460 - root - INFO - Status code: 200 for https://www.index.hr/tag/266654/indexrecepti.aspx
+2021-10-15 13:04:27,914 - root - INFO - Status code: 200 for https://www.index.hr/tag/1055629/hrvati-se-sale.aspx
+2021-10-15 13:04:28,490 - root - INFO - Status code: 200 for https://recepti.index.hr?ref=index_naslovnica_d
+2021-10-15 13:04:29,063 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/54-tart-od-nutelle-i-tostiranih-ljesnjaka?ref=index_naslovnica_d
+2021-10-15 13:04:29,707 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/853-tjestenina-s-kupusom?ref=index_naslovnica_d
+2021-10-15 13:04:30,305 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/39-ledeni-vjetar?ref=index_naslovnica_d
+2021-10-15 13:04:31,018 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/315-tjestenina-s-pancetom-i-rajcicom?ref=index_naslovnica_d
+2021-10-15 13:04:31,611 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/1150-muffini-od-bundeve?ref=index_naslovnica_d
+2021-10-15 13:04:32,626 - root - INFO - Status code: 200 for http://www.index.hr/oglasi?ref=index_naslovnica_d
+2021-10-15 13:04:33,380 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/osobni-automobili/gid/27?ref=index_naslovnica_d
+2021-10-15 13:04:33,900 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/nekretnine/gid/2?ref=index_naslovnica_d
+2021-10-15 13:04:34,863 - root - INFO - Status code: 200 for http://index.hr/oglasi/seoska-idila-u-srcu-gorskog-kotara/oid/1440534?ref=index_naslovnica_d
+2021-10-15 13:04:35,618 - root - INFO - Status code: 200 for http://index.hr/oglasi/visnjevac-kuca-prizemnica-90-m2-mirna-ulica-blizina-svih-sadrzaja/oid/2392545?ref=index_naslovnica_d
+2021-10-15 13:04:36,819 - root - INFO - Status code: 200 for http://index.hr/oglasi/opel-agila-1-2/oid/2564711?ref=index_naslovnica_d
+2021-10-15 13:04:37,591 - root - INFO - Status code: 200 for http://index.hr/oglasi/apartman-200m-od-mora--namjesten/oid/507222?ref=index_naslovnica_d
+2021-10-15 13:04:38,412 - root - INFO - Status code: 200 for http://www.index.hr/lajk?ref=index_naslovnica_d
+2021-10-15 13:04:38,994 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237710/8-neobicnih-standarda-ljepote-u-razlicitim-azijskim-zemljama?ref=index_naslovnica_d
+2021-10-15 13:04:39,529 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237709/video-odlucio-je-prestrasiti-djecu-na-povratku-iz-skole-pogledajte-reakciju-na-ovu-jezivu-lutku?ref=index_naslovnica_d
+2021-10-15 13:04:40,084 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele?ref=index_naslovnica_d
+2021-10-15 13:04:40,848 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237708/20-fotki-koje-pokazuju-zasto-je-brazil-zemlja-kao-nijedna-druga?ref=index_naslovnica_d
+2021-10-15 13:04:41,418 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237707/netko-je-fotkao-balkon-u-izgradnji-koji-je-totalni-gradjevinski-promasaj-ovo-morate-vidjeti?ref=index_naslovnica_d
+2021-10-15 13:04:42,277 - root - INFO - Status code: 200 for http://www.index.hr/lajk/
+2021-10-15 13:04:42,854 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237710/8-neobicnih-standarda-ljepote-u-razlicitim-azijskim-zemljama
+2021-10-15 13:04:43,331 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237709/video-odlucio-je-prestrasiti-djecu-na-povratku-iz-skole-pogledajte-reakciju-na-ovu-jezivu-lutku
+2021-10-15 13:04:43,879 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele
+2021-10-15 13:04:44,375 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237708/20-fotki-koje-pokazuju-zasto-je-brazil-zemlja-kao-nijedna-druga
+2021-10-15 13:04:44,835 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/
+2021-10-15 13:04:45,693 - root - INFO - Status code: 200 for https://recepti.index.hr/
+2021-10-15 13:04:48,027 - root - INFO - Status code: 200 for https://www.facebook.com/index.hr/
+2021-10-15 13:04:48,930 - root - INFO - Status code: 200 for https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA
+2021-10-15 13:04:51,595 - root - INFO - Status code: 200 for https://instagram.com/index.hr
+2021-10-15 13:04:52,112 - root - INFO - Status code: 200 for https://cjenik.index.hr
+2021-10-15 13:04:52,248 - root - INFO - Starting to save nodes into MemGraph Database.
+2021-10-15 13:04:53,244 - root - INFO - Parsing time: 31.571436166763306
+2021-10-15 13:04:53,244 - root - INFO - General execution time: 32.56715798377991
+2021-10-15 13:06:27,696 - root - WARNING - Config file for MemGraph database not found or path not provided.
+2021-10-15 13:06:27,696 - root - INFO - Setting db connection to localhost values.
+2021-10-15 13:06:27,696 - root - INFO - Connected to localhost MemGraph DB.
+2021-10-15 13:06:27,696 - root - INFO - Starting to parse: "https://index.hr" at 1 depth level.
+2021-10-15 13:06:27,696 - root - INFO - Current parsing level is: 0
+2021-10-15 13:06:27,697 - root - INFO - Starting to parse https://index.hr
+2021-10-15 13:06:28,498 - root - INFO - Status code: 200 for https://index.hr
+2021-10-15 13:06:28,674 - root - INFO - New parsing level is: 1
+2021-10-15 13:06:29,258 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/
+2021-10-15 13:06:30,252 - root - INFO - Status code: 200 for https://recepti.index.hr
+2021-10-15 13:06:30,798 - root - INFO - Status code: 200 for https://www.index.hr/lajk/
+2021-10-15 13:06:31,279 - root - INFO - Status code: 200 for http://www.index.hr/indexforum/
+2021-10-15 13:06:31,894 - root - INFO - Status code: 200 for https://www.index.hr/tag/1074040/filmske-gromade.aspx
+2021-10-15 13:06:32,597 - root - INFO - Status code: 200 for https://www.index.hr/tag/266654/indexrecepti.aspx
+2021-10-15 13:06:33,267 - root - INFO - Status code: 200 for https://www.index.hr/tag/1055629/hrvati-se-sale.aspx
+2021-10-15 13:06:33,802 - root - INFO - Status code: 200 for https://recepti.index.hr?ref=index_naslovnica_d
+2021-10-15 13:06:34,613 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/54-tart-od-nutelle-i-tostiranih-ljesnjaka?ref=index_naslovnica_d
+2021-10-15 13:06:35,185 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/853-tjestenina-s-kupusom?ref=index_naslovnica_d
+2021-10-15 13:06:35,666 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/39-ledeni-vjetar?ref=index_naslovnica_d
+2021-10-15 13:06:36,296 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/315-tjestenina-s-pancetom-i-rajcicom?ref=index_naslovnica_d
+2021-10-15 13:06:37,001 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/1150-muffini-od-bundeve?ref=index_naslovnica_d
+2021-10-15 13:06:37,833 - root - INFO - Status code: 200 for http://www.index.hr/oglasi?ref=index_naslovnica_d
+2021-10-15 13:06:38,640 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/osobni-automobili/gid/27?ref=index_naslovnica_d
+2021-10-15 13:06:39,136 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/nekretnine/gid/2?ref=index_naslovnica_d
+2021-10-15 13:06:40,015 - root - INFO - Status code: 200 for http://index.hr/oglasi/seoska-idila-u-srcu-gorskog-kotara/oid/1440534?ref=index_naslovnica_d
+2021-10-15 13:06:40,679 - root - INFO - Status code: 200 for http://index.hr/oglasi/visnjevac-kuca-prizemnica-90-m2-mirna-ulica-blizina-svih-sadrzaja/oid/2392545?ref=index_naslovnica_d
+2021-10-15 13:06:41,323 - root - INFO - Status code: 200 for http://index.hr/oglasi/opel-agila-1-2/oid/2564711?ref=index_naslovnica_d
+2021-10-15 13:06:42,454 - root - INFO - Status code: 200 for http://index.hr/oglasi/apartman-200m-od-mora--namjesten/oid/507222?ref=index_naslovnica_d
+2021-10-15 13:06:43,128 - root - INFO - Status code: 200 for http://www.index.hr/lajk?ref=index_naslovnica_d
+2021-10-15 13:06:43,759 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237710/8-neobicnih-standarda-ljepote-u-razlicitim-azijskim-zemljama?ref=index_naslovnica_d
+2021-10-15 13:06:44,284 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237709/video-odlucio-je-prestrasiti-djecu-na-povratku-iz-skole-pogledajte-reakciju-na-ovu-jezivu-lutku?ref=index_naslovnica_d
+2021-10-15 13:06:44,841 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele?ref=index_naslovnica_d
+2021-10-15 13:06:45,346 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237708/20-fotki-koje-pokazuju-zasto-je-brazil-zemlja-kao-nijedna-druga?ref=index_naslovnica_d
+2021-10-15 13:06:45,873 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237707/netko-je-fotkao-balkon-u-izgradnji-koji-je-totalni-gradjevinski-promasaj-ovo-morate-vidjeti?ref=index_naslovnica_d
+2021-10-15 13:06:46,546 - root - INFO - Status code: 200 for http://www.index.hr/lajk/
+2021-10-15 13:06:47,053 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237710/8-neobicnih-standarda-ljepote-u-razlicitim-azijskim-zemljama
+2021-10-15 13:06:47,591 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237709/video-odlucio-je-prestrasiti-djecu-na-povratku-iz-skole-pogledajte-reakciju-na-ovu-jezivu-lutku
+2021-10-15 13:06:48,175 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele
+2021-10-15 13:06:48,796 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237708/20-fotki-koje-pokazuju-zasto-je-brazil-zemlja-kao-nijedna-druga
+2021-10-15 13:06:49,246 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/
+2021-10-15 13:06:49,964 - root - INFO - Status code: 200 for https://recepti.index.hr/
+2021-10-15 13:06:52,137 - root - INFO - Status code: 200 for https://www.facebook.com/index.hr/
+2021-10-15 13:06:53,111 - root - INFO - Status code: 200 for https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA
+2021-10-15 13:06:54,959 - root - INFO - Status code: 200 for https://instagram.com/index.hr
+2021-10-15 13:06:55,441 - root - INFO - Status code: 200 for https://cjenik.index.hr
+2021-10-15 13:06:55,573 - root - INFO - Starting to save nodes into MemGraph Database.
+2021-10-15 13:07:13,067 - root - WARNING - Config file for MemGraph database not found or path not provided.
+2021-10-15 13:07:13,067 - root - INFO - Setting db connection to localhost values.
+2021-10-15 13:07:13,068 - root - INFO - Connected to localhost MemGraph DB.
+2021-10-15 13:07:13,068 - root - INFO - Starting to parse: "https://index.hr" at 1 depth level.
+2021-10-15 13:07:13,068 - root - INFO - Current parsing level is: 0
+2021-10-15 13:07:13,068 - root - INFO - Starting to parse https://index.hr
+2021-10-15 13:07:13,917 - root - INFO - Status code: 200 for https://index.hr
+2021-10-15 13:07:14,080 - root - INFO - New parsing level is: 1
+2021-10-15 13:07:14,688 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/
+2021-10-15 13:07:15,313 - root - INFO - Status code: 200 for https://recepti.index.hr
+2021-10-15 13:07:15,799 - root - INFO - Status code: 200 for https://www.index.hr/lajk/
+2021-10-15 13:07:16,234 - root - INFO - Status code: 200 for http://www.index.hr/indexforum/
+2021-10-15 13:07:16,903 - root - INFO - Status code: 200 for https://www.index.hr/tag/1074040/filmske-gromade.aspx
+2021-10-15 13:07:17,468 - root - INFO - Status code: 200 for https://www.index.hr/tag/266654/indexrecepti.aspx
+2021-10-15 13:07:17,885 - root - INFO - Status code: 200 for https://www.index.hr/tag/1055629/hrvati-se-sale.aspx
+2021-10-15 13:07:18,705 - root - INFO - Status code: 200 for https://recepti.index.hr?ref=index_naslovnica_d
+2021-10-15 13:07:19,323 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/54-tart-od-nutelle-i-tostiranih-ljesnjaka?ref=index_naslovnica_d
+2021-10-15 13:07:19,851 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/853-tjestenina-s-kupusom?ref=index_naslovnica_d
+2021-10-15 13:07:20,356 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/39-ledeni-vjetar?ref=index_naslovnica_d
+2021-10-15 13:07:21,092 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/315-tjestenina-s-pancetom-i-rajcicom?ref=index_naslovnica_d
+2021-10-15 13:07:21,754 - root - INFO - Status code: 200 for https://recepti.index.hr/recept/1150-muffini-od-bundeve?ref=index_naslovnica_d
+2021-10-15 13:07:22,675 - root - INFO - Status code: 200 for http://www.index.hr/oglasi?ref=index_naslovnica_d
+2021-10-15 13:07:23,597 - root - INFO - Status code: 200 for http://www.index.hr/oglasi/osobni-automobili/gid/27?ref=index_naslovnica_d
+2021-10-15 13:07:24,103 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/nekretnine/gid/2?ref=index_naslovnica_d
+2021-10-15 13:07:24,785 - root - INFO - Status code: 200 for http://index.hr/oglasi/seoska-idila-u-srcu-gorskog-kotara/oid/1440534?ref=index_naslovnica_d
+2021-10-15 13:07:25,835 - root - INFO - Status code: 200 for http://index.hr/oglasi/visnjevac-kuca-prizemnica-90-m2-mirna-ulica-blizina-svih-sadrzaja/oid/2392545?ref=index_naslovnica_d
+2021-10-15 13:07:26,633 - root - INFO - Status code: 200 for http://index.hr/oglasi/opel-agila-1-2/oid/2564711?ref=index_naslovnica_d
+2021-10-15 13:07:27,387 - root - INFO - Status code: 200 for http://index.hr/oglasi/apartman-200m-od-mora--namjesten/oid/507222?ref=index_naslovnica_d
+2021-10-15 13:07:28,349 - root - INFO - Status code: 200 for http://www.index.hr/lajk?ref=index_naslovnica_d
+2021-10-15 13:07:28,765 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237710/8-neobicnih-standarda-ljepote-u-razlicitim-azijskim-zemljama?ref=index_naslovnica_d
+2021-10-15 13:07:29,344 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237709/video-odlucio-je-prestrasiti-djecu-na-povratku-iz-skole-pogledajte-reakciju-na-ovu-jezivu-lutku?ref=index_naslovnica_d
+2021-10-15 13:07:29,939 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele?ref=index_naslovnica_d
+2021-10-15 13:07:30,545 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237708/20-fotki-koje-pokazuju-zasto-je-brazil-zemlja-kao-nijedna-druga?ref=index_naslovnica_d
+2021-10-15 13:07:31,095 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237707/netko-je-fotkao-balkon-u-izgradnji-koji-je-totalni-gradjevinski-promasaj-ovo-morate-vidjeti?ref=index_naslovnica_d
+2021-10-15 13:07:31,728 - root - INFO - Status code: 200 for http://www.index.hr/lajk/
+2021-10-15 13:07:32,244 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237710/8-neobicnih-standarda-ljepote-u-razlicitim-azijskim-zemljama
+2021-10-15 13:07:32,812 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237709/video-odlucio-je-prestrasiti-djecu-na-povratku-iz-skole-pogledajte-reakciju-na-ovu-jezivu-lutku
+2021-10-15 13:07:34,776 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237704/30-smijesnih-zivotinja-koje-su-zapele-i-bez-ljudske-pomoci-ne-bi-uspjele
+2021-10-15 13:07:35,518 - root - INFO - Status code: 200 for https://www.index.hr/lajk/poster/237708/20-fotki-koje-pokazuju-zasto-je-brazil-zemlja-kao-nijedna-druga
+2021-10-15 13:07:36,347 - root - INFO - Status code: 200 for https://www.index.hr/oglasi/
+2021-10-15 13:07:37,156 - root - INFO - Status code: 200 for https://recepti.index.hr/
+2021-10-15 13:07:40,071 - root - INFO - Status code: 200 for https://www.facebook.com/index.hr/
+2021-10-15 13:07:40,926 - root - INFO - Status code: 200 for https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA
+2021-10-15 13:07:42,776 - root - INFO - Status code: 200 for https://instagram.com/index.hr
+2021-10-15 13:07:43,314 - root - INFO - Status code: 200 for https://cjenik.index.hr
+2021-10-15 13:07:43,445 - root - INFO - Starting to save nodes into MemGraph Database.
+2021-10-15 13:07:44,207 - root - INFO - Parsing time: 30.377721786499023
+2021-10-15 13:07:44,207 - root - INFO - General execution time: 31.139904975891113

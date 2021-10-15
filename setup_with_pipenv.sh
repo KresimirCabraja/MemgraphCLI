@@ -2,8 +2,6 @@
 
 
 PIPENV=$(dpkg -s pipenv)
-PIP=$(dpkg -s pip)
-
 
 if [ "$PIPENV" ];
 
@@ -14,8 +12,4 @@ if [ "$PIPENV" ];
             pipenv shell
             exit 0
 
-elif [ "$PIP" ];
-
-    then
-        echo 'Why are you using pip?'
 fi

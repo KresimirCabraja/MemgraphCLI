@@ -10,6 +10,7 @@ pyyaml = "*"
 requests = "*"
 beautifulsoup4 = "*"
 networkx = "*"
+coverage = "*"
 
 [dev-packages]
 

@@ -1,4 +1,4 @@
 .idea/
 *.pyc
 *__pycache__/*
-git_hub_token.txt
+github_token.txt

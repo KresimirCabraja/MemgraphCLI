@@ -65,6 +65,7 @@ def path(start_url, end_url):
 
     mgdb = MemGraphDB()
     mgdb.get_path(start_url, end_url)
+    # not finished yet...
 
 
 cli.add_command(network)

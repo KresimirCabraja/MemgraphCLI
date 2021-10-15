@@ -1,13 +1,13 @@
-#Memgraph CLI
+# Memgraph CLI
 
-##Project setup:
+## Project setup:
 On Ubuntu with Pipenv:
 
 run
 ``pipenv install`` from root directory.
 And after ``pipenv shell`` to activate virtual environment
 
-or just run `./setup_env.sh` after you give it execution right with `chmod a+x setup_env.sh`.
+or just run `./setup_with_pipenv.sh` after you give it execution right with `chmod a+x setup_with_pipenv.sh`.
 
 
 ##Commands:
